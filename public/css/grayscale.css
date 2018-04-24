@@ -284,7 +284,7 @@ img::-moz-selection {
 }
 
 .mypic img{
-  height: 466px; width: 350px;
-  position: relative; 
+  height: 466px; width: 420px;
+  position: absolute;
   border: 30px solid white;
 }
